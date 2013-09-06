@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "message": "Netflix Unsubtitler",
+        "description": "Extension name."
+    },
+    "extDescription": {
+        "message": "Allows you to remove Netflix subtitles when they won't allow you to do so. This is done by simply blocking requests to \"*://*.akam.nflximg.com/soa2/*\"",
+        "description": "Extension description."
+    }
+}

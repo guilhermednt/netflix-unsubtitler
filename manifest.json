@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extName__",
+  "version": "0.0.1",
+  "default_locale": "en",
+  "description": "__MSG_extDescription__",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.akam.nflximg.com/soa2/*"
+  ],
+  "background": {
+    "scripts": [
+      "unsubtitler.js"
+    ]
+  }
+}
